@@ -1,13 +1,6 @@
 # SUN397Vision: Deep Scene UNderstanding
 
-Project Description:
-This project is an Image classification of SUN397 Dataset from tensorflow.
 
-Base Paper Source: 
-[Scene Understanding (SUN) Database: Large-scale Scene Recognition](https://ieeexplore.ieee.org/document/5539970)
-
-## DataSet:
-[sun397](https://www.tensorflow.org/datasets/catalog/sun397)
 
 Brief Description:
 Scene categorization is a fundamental problem in computer vision. By “scene” we mean a place in which a human can act within, or a place to which a human being could navigate. The SUN397 Dataset is a large-scale image dataset designed for scene understanding in computer vision. It contains 15 distinct classes with a total of 130,519 images, covering 397 well-sampled categories. This dataset is already splitted into train, valid and test. This dataset serves as a valuable resource for evaluating state-of-the-art algorithms in scene understanding.
